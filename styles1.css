@@ -1,0 +1,140 @@
+/* css selectors */
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color:#66BFBF;
+  padding-bottom: 10px;
+  text-decoration: underline;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color:#11999E
+}
+p{
+  line-height: 2;
+  font-size: 30px;
+}
+.name{
+  font-size: 600%;
+}
+.top{
+  background-color: #b9fffc;
+  position: relative;
+  padding-top: 100px;
+}
+.middle{
+  margin: 100px auto;
+}
+.bcloud{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+.tcloud
+{
+  position: absolute;
+  right:200px;
+  top:40px;
+}
+.intro{
+  width: 30%;
+  margin:auto;
+}
+.wd{
+  resize:both ;
+}
+.footer-link{
+  color:black;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  line-height: normal;
+  text-decoration:none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.cr{
+  color:#EAF6F6;
+  font-size: 0.75em;
+  padding-left: 20px;
+}
+.btn{
+  background: #b9fffc;
+  background-image: -webkit-linear-gradient(top, #b9fffc, #11e6ed);
+  background-image: -moz-linear-gradient(top, #b9fffc, #11e6ed);
+  background-image: -ms-linear-gradient(top, #b9fffc, #11e6ed);
+  background-image: -o-linear-gradient(top, #b9fffc, #11e6ed);
+  background-image: linear-gradient(to bottom, #b9fffc, #11e6ed);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family:Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #21dae0;
+  background-image: -webkit-linear-gradient(top, #21dae0, #11deb5);
+  background-image: -moz-linear-gradient(top, #21dae0, #11deb5);
+  background-image: -ms-linear-gradient(top, #21dae0, #11deb5);
+  background-image: -o-linear-gradient(top, #21dae0, #11deb5);
+  background-image: linear-gradient(to bottom, #21dae0, #11deb5);
+  text-decoration: none;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto ;
+  text-align: left;
+
+}
+.wdimg{
+  margin-bottom: 15px;
+}
+.wd{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.bc{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.py{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.web{
+  line-height: normal;
+}
+.msg{
+  width:40%;
+  margin: 40px auto 60px;
+}
+.bottom{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.git{
+  text-decoration: underline;
+}
+.ms{
+  text-decoration: underline;
+}
